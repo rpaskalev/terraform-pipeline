@@ -5,4 +5,4 @@ install \
   -m 755 \
   terraform \
   /usr/local/bin
-rm terraform terraform_${terraform_version}_linux_amd64.zip
+rm terraform terraform_${terraform_version}_linux_amd64.zi
